@@ -11,5 +11,10 @@ using namespace std;
   El precio final es igual al precio de costo más el IGV menos el descuento.
 * El descuento consiste en que si el stock es maytor que 100 entonces se aplica un
   descuento del 20% sobre el precio de costo.
-* Imprimir un reporte donde muestre los datos del auto y su precio final.
-*/
+* Imprimir un reporte donde muestre los datos de los auto y sus precios finales.
+* */
+
+int main() {
+
+	return 0;
+}
