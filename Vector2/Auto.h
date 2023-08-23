@@ -30,5 +30,20 @@ public:
 	double calcularPrecioFinal() {
 		return precio + calcularIGV() - cacularDescuento();
 	}
+	int getCodigo() {
+		return codigo;
+	}
+	string getMarca() {
+		return marca;
+	}
+	string getModelo() {
+		return modelo;
+	}
+	int getStock(){
+		return stock;
+	}
+	double getPrecio() {
+		return precio;
+	}
 
 };
